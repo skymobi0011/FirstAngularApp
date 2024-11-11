@@ -60,3 +60,10 @@ input {
     height: 400px;
   }
 }
+.primary{
+  padding: 10px;
+  border: solid 1px var(--primary-color);
+  background: blueviolet;
+  color: white;
+  border-radius: 8px;
+}
